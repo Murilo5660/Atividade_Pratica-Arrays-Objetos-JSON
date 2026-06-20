@@ -1,6 +1,6 @@
-# 📚 Atividade Prática - Arrays, Objetos e JSON
+# Atividade Prática - Arrays, Objetos e JSON
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto foi desenvolvido como atividade prática da disciplina de Programação Backend com o objetivo de exercitar os conceitos fundamentais de JavaScript relacionados a:
 
@@ -14,9 +14,9 @@ O código simula elementos básicos de um jogo RPG, incluindo inventário, perso
 
 ---
 
-## 🚀 Funcionalidades Implementadas
+## Funcionalidades Implementadas
 
-### 🎒 Inventário (Arrays)
+### Inventário (Arrays)
 
 * Criação de um inventário com itens iniciais.
 * Acesso a itens por índice.
@@ -26,7 +26,7 @@ O código simula elementos básicos de um jogo RPG, incluindo inventário, perso
 * Verificação de existência de itens com `includes()`.
 * Percurso completo do inventário utilizando laço `for`.
 
-### 🧙 Personagem (Objetos)
+### Personagem (Objetos)
 
 * Criação de objeto com propriedades:
 
@@ -38,13 +38,13 @@ O código simula elementos básicos de um jogo RPG, incluindo inventário, perso
 * Adição dinâmica de novas propriedades.
 * Remoção de propriedades com `delete`.
 
-### ⚔️ Habilidades e Inimigos
+### Habilidades e Inimigos
 
 * Adição de um array de habilidades ao personagem.
 * Criação de um array contendo objetos de inimigos.
 * Manipulação de estruturas compostas (Arrays + Objetos).
 
-### 💾 JSON
+### JSON
 
 * Conversão do objeto personagem para JSON utilizando `JSON.stringify()`.
 * Reconstrução do objeto através de `JSON.parse()`.
@@ -52,14 +52,14 @@ O código simula elementos básicos de um jogo RPG, incluindo inventário, perso
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * JavaScript (ES6+)
 * Node.js
 
 ---
 
-## ▶️ Como Executar
+## Como Executar
 
 1. Clone o repositório:
 
@@ -81,7 +81,7 @@ node extencao.js
 
 ---
 
-## 🎯 Objetivo Educacional
+## Objetivo Educacional
 
 Praticar conceitos essenciais de JavaScript que servem de base para o desenvolvimento Backend, incluindo manipulação de coleções de dados, modelagem de objetos e serialização de informações utilizando JSON.
 
