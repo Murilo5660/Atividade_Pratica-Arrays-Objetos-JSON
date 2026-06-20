@@ -37,7 +37,7 @@ personagem.status_vivo = true;
 delete personagem.classe;
 
 ///Unindo Arrays, Objetos e JSON
-personagem.habilidades = ["Bola de Fogo","Relâpago Teleguiado","Imã de Ouro"];
+personagem.habilidades = ["Bola de Fogo","Relâmpago Teleguiado","Imã de Ouro"];
 
 let inimigos = [
     {
