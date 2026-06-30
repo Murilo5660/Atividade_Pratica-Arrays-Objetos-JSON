@@ -64,7 +64,7 @@ O código simula elementos básicos de um jogo RPG, incluindo inventário, perso
 1. Clone o repositório:
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/Murilo5660/Atividade_Pratica-Arrays-Objetos-JSON.git
 ```
 
 2. Acesse a pasta do projeto:
